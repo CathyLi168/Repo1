@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BEE2-8E89
+
+ Directory of C:\Users\cathy\OneDrive\Desktop\MyprojectFolder
+
+12/08/2021  07:49 PM    <DIR>          .
+12/08/2021  06:10 PM    <DIR>          ..
+12/08/2021  06:33 PM               422 index.html
+12/08/2021  06:33 PM                 6 text.txt
+12/08/2021  07:49 PM                 0 text2.txt
+               3 File(s)            428 bytes
+               2 Dir(s)  433,704,443,904 bytes free
